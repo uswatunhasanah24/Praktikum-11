@@ -18,6 +18,7 @@ dalam bentuk tabel (dataframe) dan digunakan untuk data analysis.
 - from bs4 import BeautifulSoup digunakan untuk mengimport class BeautifulSoup dari package BeautifulSoup4. Class BeautifulSoup digunakan untuk 
 mengelola dan mengolah data dari HTML atau XML.
 
+![WhatsApp Image 2023-01-18 at 13 36 15](https://user-images.githubusercontent.com/115516474/213101803-f214b2b5-90ca-429f-82e2-a709648e0043.jpeg)
 
 
 ### Penjelasan
@@ -33,3 +34,6 @@ Informasi yang diambil kemudian disimpan dalam sebuah list yang sesuai.
 
 - Setelah itu, kodingan menggunakan library pandas untuk membuat dataframe dari list yang didapat dan menyimpannya dalam variabel 'df'. 
 Kemudian kodingan mencetak dataframe tersebut, sehingga kita dapat melihat informasi lowongan kerja yang diambil dari situs web Glints.
+
+![WhatsApp Image 2023-01-18 at 13 36 15 (1)](https://user-images.githubusercontent.com/115516474/213101902-c093da7b-9bcc-454d-8833-c6fe64b95a99.jpeg)
+
